@@ -1,18 +1,2 @@
-# Variable names in the simulations data
-Beliefs are named by numbers, in the following way:
-
-0: P
-1: ¬P
-2: Q
-3: ¬Q
-4: R
-5: ¬R
-
-Thus, e.g. 034 means P¬QR.
-
-Other variables correspond to variables in the manuscript in the following way:
-
-population_size: N
-generation_length: 1/β
-p_invent: µ
-a0: α_0
+# The emergence of polarised groups through source filtering
+This repository contains python code for the agent-based model of the manuscript in the title. It also contains data from the simulations of the manuscript, along with a readme file describing variable names.
